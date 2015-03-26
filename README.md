@@ -1,5 +1,7 @@
 # Eight Queens
 
+[Eight Queens](http://en.wikipedia.org/wiki/Eight_queens_puzzle)
+
 Solves Eight Queens using a Poly Tree Structure to return all solutions to the Eight Queens problem.
 
 This script returns soltions to the eight queens problem using a Polytree. 
