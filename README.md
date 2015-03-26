@@ -1,4 +1,4 @@
-# eight-queens
+# Eight Queens
 
 Solves Eight Queens using a Poly Tree Structure to return all solutions to the Eight Queens problem.
 
